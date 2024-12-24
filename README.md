@@ -1,2 +1,2 @@
-# Baseball-HOF-Analysis
-Final Project for DSAN 5000
+# 2024-dsan-5000-project
+Project repository 
